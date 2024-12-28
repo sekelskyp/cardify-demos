@@ -1,0 +1,1 @@
+<h1>Register for your Cardify account</h1>

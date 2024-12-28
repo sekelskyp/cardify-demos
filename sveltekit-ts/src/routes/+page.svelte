@@ -5,7 +5,7 @@
         <a href="#">Pricing</a>
         <a href="#">Cart</a>
         <a href="#">Login</a>
-        <a href="#">Sign Up</a>
+        <a href="#">Register</a>
     </nav>
 </header>
 <main>
