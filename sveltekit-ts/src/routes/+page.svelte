@@ -1,11 +1,11 @@
 <header>
     <nav>
-        <a href="#">Card</a>
-        <a href="#">Features</a>
-        <a href="#">Pricing</a>
-        <a href="#">Cart</a>
-        <a href="#">Login</a>
-        <a href="#">Register</a>
+        <a href="/card">Card</a>
+        <a href="/features">Features</a>
+        <a href="/pricing">Pricing</a>
+        <a href="/cart">Cart</a>
+        <a href="/login">Login</a>
+        <a href="/register">Register</a>
     </nav>
 </header>
 <main>
@@ -15,8 +15,8 @@
 </main>
 <footer>
     <nav>
-        <a href="#">Card</a>
-        <a href="#">Features</a>
-        <a href="#">Pricing</a>
+        <a href="/card">Card</a>
+        <a href="/features">Features</a>
+        <a href="/pricing">Pricing</a>
     </nav>
 </footer>
