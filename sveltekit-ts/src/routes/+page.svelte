@@ -6,7 +6,4 @@
         </hgroup>
         <button>Call to action!</button>
     </section>
-    <section>
-        
-    </section>
 </main>
