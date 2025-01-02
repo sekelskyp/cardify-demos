@@ -31,4 +31,9 @@
         </div>
     </hgroup>
 </section>
-<section></section>
+<section>
+    <hgroup>
+        <h2>Frequently asked</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    </hgroup>
+</section>
